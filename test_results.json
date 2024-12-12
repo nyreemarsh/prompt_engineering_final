@@ -1,0 +1,352 @@
+[
+    {
+        "index": 0,
+        "question": "\"what was the hqla in the q4 of Citigroup in 2015\"",
+        "model_answer": "**Query:** \"what was the hqla in the q4 of Citigroup in 2015\"\n**Company (Ticker):** C\n**Fiscal Year:** 2015\n**Retrieved Data:**\nduring 2015 , continued management actions , primarily the sale or transfer to held-for-sale of approximately $ 1.5 billion of delinquent residential first mortgages , including $ 0.9 billion in the fourth quarter largely associated with the transfer of citifinancial loans to held-for-sale referenced above , were the primary driver of the overall improvement in delinquencies within citi holdings 2019 residential first mortgage portfolio .credit performance from quarter to quarter could continue to be impacted by the amount of delinquent loan sales or transfers to held-for-sale , as well as overall trends in hpi and interest rates .north america residential first mortgages 2014state delinquency trends the following tables set forth the six u.s .states and/or regions with the highest concentration of citi 2019s residential first mortgages. .",
+        "correct_answer": "\"378.5 billion dollars\"",
+        "score": 0
+    },
+    {
+        "index": 1,
+        "question": "\"as a result of the sales of certain non-core towers and other assets what was the recorded net losses of American Tower in 2008\"",
+        "model_answer": "**Query:** \"as a result of the sales of certain non-core towers and other assets what was the recorded net losses of American Tower in 2008\"\n**Company (Ticker):** AMT\n**Fiscal Year:** 2008\n**Retrieved Data:**\ntower cash flow for the three months ended december 31 2008,$ 188449\r\nconsolidated cash flow for the twelve months ended december 31 2008,726954\r\nless : tower cash flow for the twelve months ended december 31 2008,-741565 ( 741565 )\r\nplus : four times tower cash flow for the three months ended december 31 2008,753798\r\nadjusted consolidated cash flow for the twelve months ended december 31 2008,739187\r\nnon-tower cash flow for the twelve months ended december 31 2008,$ -14611 ( 14611 )",
+        "correct_answer": "\"10.5 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 2,
+        "question": "\"what was the port call costsin of Royal Caribbean Cruises in 2012\"",
+        "model_answer": "**Query:** \"what was the port call costsin of Royal Caribbean Cruises in 2012\"\n**Company (Ticker):** RCL\n**Fiscal Year:** 2012\n**Retrieved Data:**\nNo relevant data found for the given question. Please refine your query or check the inputs (ticker and fiscal year).",
+        "correct_answer": "\"459.8 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 3,
+        "question": "\"what is the aggregate rent expense of American Tower Corp in 2014?\"",
+        "model_answer": "**Query:** \"what is the aggregate rent expense of American Tower Corp in 2014?\"\n**Company (Ticker):** AMT\n**Fiscal Year:** 2014\n**Retrieved Data:**\namerican tower corporation and subsidiaries notes to consolidated financial statements acquisition accounting upon closing of the acquisition .based on current estimates , the company expects the value of potential contingent consideration payments required to be made under these agreements to be between zero and $ 4.4 million .during the year ended december 31 , 2014 , the company ( i ) recorded a decrease in fair value of $ 1.7 million in other operating expenses in the accompanying consolidated statements of operations , ( ii ) recorded settlements under these agreements of $ 3.5 million , ( iii ) reduced its contingent consideration liability by $ 0.7 million as a portion of the company 2019s obligations was assumed by the buyer in conjunction with the sale of operations in panama and ( iv ) recorded additional liability of $ 0.1 million .as a result , the company estimates the value of potential contingent consideration payments required under these agreements to be $ 2.3 million",
+        "correct_answer": "\"655.0 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 4,
+        "question": "\"what is the long-term component of BlackRock at 12/31/2011?\"",
+        "model_answer": "Could not find relevant data for BLK in fiscal year 2011. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "\"593356 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 5,
+        "question": "\"at december 31 , 2012 of The PNC Financial Services, what was the potential maximum exposure under the loss share arrangements?\"",
+        "model_answer": "**Query:** \"at december 31 , 2012 of The PNC Financial Services, what was the potential maximum exposure under the loss share arrangements?\"\n**Company (Ticker):** PNC\n**Fiscal Year:** 2012\n**Retrieved Data:**\nthe pnc financial services group , inc .2013 form 10-k 79 .",
+        "correct_answer": "\"3.9 billion dollars\"",
+        "score": 0
+    },
+    {
+        "index": 6,
+        "question": "\"what is the total financial liabilities at fair value of Goldman Sachs in 2012?\"",
+        "model_answer": "**Query:** \"what is the total financial liabilities at fair value of Goldman Sachs in 2012?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2012\n**Retrieved Data:**\n56 goldman sachs 2012 annual report .",
+        "correct_answer": "\"377677 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 7,
+        "question": "\"what was brazilian paper sales of International Paper Company in 2006?\"",
+        "model_answer": "**Query:** \"what was brazilian paper sales of International Paper Company in 2006?\"\n**Company (Ticker):** IP\n**Fiscal Year:** 2006\n**Retrieved Data:**\n.looking forward to 2007 , we expect seasonally higher sales volumes in the first quarter .average paper price realizations should continue to improve as we implement previously announced price increases in europe and brazil .input costs for energy , fiber and chemicals are expected to be mixed , although slightly higher in the first quarter .operating results will benefit from the recently completed international paper/sun paperboard joint ventures in china and the addition of the luiz anto- nio paper mill to our operations in brazil .however , primarily as a result of lower real estate sales in the first quarter , we anticipate earnings from continuing operations will be somewhat lower than in the 2006 fourth quarter .significant steps were also taken in 2006 in the execution of the company 2019s transformation plan .we completed the sales of our u.s .and brazilian coated papers businesses and 5.6 million acres of u.s .forestlands , and announced definitive sale agreements for our",
+        "correct_answer": "\"6930 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 8,
+        "question": "\"what was brazilian paper sales of International Paper Company in 2005?\"",
+        "model_answer": "**Query:** \"what was brazilian paper sales of International Paper Company in 2005?\"\n**Company (Ticker):** IP\n**Fiscal Year:** 2005\n**Retrieved Data:**\n2003 , respectively .brazilian paper sales were $ 684 million in 2005 com- pared with $ 592 million in 2004 and $ 540 million in 2003 .sales volumes for uncoated freesheet paper , coated paper and wood chips were down from 2004 , but average price realizations improved for exported un- coated freesheet and coated groundwood paper grades .favorable currency translation , as yearly average real exchange rates versus the u.s .dollar were 17% ( 17 % ) higher in 2005 than in 2004 , positively impacted reported sales in u.s .dollars .average sales prices for domestic un- coated paper declined 4% ( 4 % ) in local currency versus 2004 , while domestic coated paper prices were down 3% ( 3 % ) .operating profits in 2005 were down 9% ( 9 % ) from 2004 , but were up 2% ( 2 % ) from 2003 .earnings in 2005 were neg- atively impacted by a weaker product and geographic sales mix for both uncoated and coated papers , reflecting increased competition and softer demand , particularly in the printing ,",
+        "correct_answer": "\"7170 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 9,
+        "question": "\"what is the cashflow of Kellogg in 2006?\"",
+        "model_answer": "Could not find relevant data for K in fiscal year 2006. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "\"957.4 million dollars\"",
+        "score": 0
+    },
+    {
+        "index": 10,
+        "question": "\"From the perspective of 5 years ago, what percentage of total minimum lease payments of Dish Network are due in 2015?\"",
+        "model_answer": "Could not find relevant data for DISH in fiscal year 2019. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "\"10%\"",
+        "score": 0
+    },
+    {
+        "index": 11,
+        "question": "\"in 2011 what was the SL Green Realty Corp's percent of the change in the account balance at end of year\"",
+        "model_answer": "**Query:** \"in 2011 what was the SL Green Realty Corp's percent of the change in the account balance at end of year\"\n**Company (Ticker):** SLG\n**Fiscal Year:** 2011\n**Retrieved Data:**\n,2012,2013,2014,2015,2016,thereafter,total\r\nproperty mortgages,$ 52443,$ 568649,$ 647776,$ 270382,$ 556400,$ 2278190,$ 4373840\r\nrevolving credit facility,2014,2014,2014,2014,350000,2014,350000\r\ntrust preferred securities,2014,2014,2014,2014,2014,100000,100000\r\nsenior unsecured notes,119423,2014,98578,657,274804,777194,1270656\r\ncapital lease,1555,1555,1555,1592,1707,42351,50315\r\nground leases,33429,33429,33429,33429,33533,615450,782699\r\nestimated interest expense,312672,309280,269286,244709,212328,470359,1818634\r\njoint venture debt,176457,93683,123983,102476,527814,800102,1824515\r\ntotal,$ 695979,$ 1006596,$ 1174607,$ 653245,$ 1956586,$ 5083646,$ 10570659",
+        "correct_answer": "\"93.7%\"",
+        "score": 0
+    },
+    {
+        "index": 12,
+        "question": "\"what was the value in thousands of unvested restricted stock and performance awards at the weighted-averagegrant-datefair value as of december 31 , 2018 of Global Payments?\"",
+        "model_answer": "Could not find relevant data for GPN in fiscal year 2019. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "\"117624.84\"",
+        "score": 0
+    },
+    {
+        "index": 13,
+        "question": "\"based on the cash dividends paid of the year, how many common stock shares were outstanding in 2007 Snap-on?\"",
+        "model_answer": "**Query:** \"based on the cash dividends paid of the year, how many common stock shares were outstanding in 2007 Snap-on?\"\n**Company (Ticker):** SNA\n**Fiscal Year:** 2007\n**Retrieved Data:**\nqualifying dividends in 2005 that resulted in additional income tax expense of $ 3.3 million for the year .note 9 : short-term and long-term debt notes payable and long-term debt as of december 29 , 2007 , was $ 517.9 million ; no commercial paper was outstanding at december 29 , 2007 .as of december 30 , 2006 , notes payable and long-term debt was $ 549.2 million , including $ 314.9 million of commercial paper .snap-on presented $ 300 million of the december 30 , 2006 , outstanding commercial paper as 201clong-term debt 201d on the accompanying december 30 , 2006 , consolidated balance sheet .on january 12 , 2007 , snap-on sold $ 300 million of unsecured notes consisting of $ 150 million of floating rate notes that mature on january 12 , 2010 , and $ 150 million of fixed rate notes that mature on january 15 , 2017 .interest on the floating rate notes accrues at a rate equal to the three-month london interbank offer rate plus 0.13% ( 0.13 % ) per year and is payable quarterly",
+        "correct_answer": "\"58909091\"",
+        "score": 0
+    },
+    {
+        "index": 14,
+        "question": "\"what is the Entergy Corp's 2008 total value , in millions of dollars , of issuable long-term securities?\"",
+        "model_answer": "**Query:** \"what is the Entergy Corp's 2008 total value , in millions of dollars , of issuable long-term securities?\"\n**Company (Ticker):** ETR\n**Fiscal Year:** 2009\n**Retrieved Data:**\nissuances .the long-term securities issuances of entergy new orleans are limited to amounts authorized by the city council , and the current authorization extends through august 2010 .capital funds agreement pursuant to an agreement with certain creditors , entergy corporation has agreed to supply system energy with sufficient capital to : maintain system energy's equity capital at a minimum of 35% ( 35 % ) of its total capitalization ( excluding short- term debt ) ; permit the continued commercial operation of grand gulf ; pay in full all system energy indebtedness for borrowed money when due ; and enable system energy to make payments on specific system energy debt , under supplements to the agreement assigning system energy's rights in the agreement as security for the specific debt .entergy texas securitization bonds - hurricane rita in april 2007 , the puct issued a financing order authorizing the issuance of securitization bonds to recover $ 353 million of entergy texas'",
+        "correct_answer": "\"1450\"",
+        "score": 0
+    },
+    {
+        "index": 15,
+        "question": "\"for the capital framework of Goldman Sachs Group 7 years ago, what percent of the minimum supplementary leverage ratio consisted of a buffer?\"",
+        "model_answer": "**Query:** \"for the capital framework of Goldman Sachs Group 7 years ago, what percent of the minimum supplementary leverage ratio consisted of a buffer?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2017\n**Retrieved Data:**\nthe goldman sachs group , inc .and subsidiaries management 2019s discussion and analysis as of december 2017 , total staff increased 6% ( 6 % ) compared with december 2016 , reflecting investments in technology and marcus , and support of our regulatory efforts .2016 versus 2015 .operating expenses in the consolidated statements of earnings were $ 20.30 billion for 2016 , 19% ( 19 % ) lower than 2015 .compensation and benefits expenses in the consolidated statements of earnings were $ 11.65 billion for 2016 , 8% ( 8 % ) lower than 2015 , reflecting a decrease in net revenues and the impact of expense savings initiatives .the ratio of compensation and benefits to net revenues for 2016 was 38.1% ( 38.1 % ) compared with 37.5% ( 37.5 % ) for 2015 .non-compensation expenses in the consolidated statements of earnings were $ 8.66 billion for 2016 , 30% ( 30 % ) lower than 2015 , primarily due to significantly lower net provisions for mortgage-related litigation and regulatory matters , which",
+        "correct_answer": "\"40%\"",
+        "score": 0
+    },
+    {
+        "index": 16,
+        "question": "\"in 2007 what was the 3M's ratio of the interest expense to the interest income\"",
+        "model_answer": "**Query:** \"in 2007 what was the 3M's ratio of the interest expense to the interest income\"\n**Company (Ticker):** MMM\n**Fiscal Year:** 2007\n**Retrieved Data:**\ncompany intends to use the proceeds from future securities sales off this shelf for general corporate purposes .at december 31 , 2007 , certain debt agreements ( $ 350 million of dealer remarketable securities and $ 87 million of esop debt ) had ratings triggers ( bbb-/baa3 or lower ) that would require repayment of debt .the company has an aa credit rating , with a stable outlook , from standard & poor 2019s and an aa1 credit rating , with a negative outlook , from moody 2019s investors service .in addition , under the $ 1.5-billion five-year credit facility agreement , 3m is required to maintain its ebitda to interest ratio as of the end of each fiscal quarter at not less than 3.0 to 1 .this is calculated ( as defined in the agreement ) as the ratio of consolidated total ebitda for the four consecutive quarters then ended to total interest expense on all funded debt for the same period .at december 31 , 2007 , this ratio was approximately 35 to 1. .",
+        "correct_answer": "\"1.59\"",
+        "score": 0
+    },
+    {
+        "index": 17,
+        "question": "\"what is the AON's decrease observed in the additions for tax positions of prior years as of 2018, in millions?\"",
+        "model_answer": "**Query:** \"what is the AON's decrease observed in the additions for tax positions of prior years as of 2018, in millions?\"\n**Company (Ticker):** AON\n**Fiscal Year:** 2018\n**Retrieved Data:**\nyears ended december 31,2018,2017,2016\r\nstatutory tax rate,19.0% ( 19.0 % ),19.3% ( 19.3 % ),20.0% ( 20.0 % )\r\nu.s . state income taxes net of u.s . federal benefit,-0.4 ( 0.4 ),-1.5 ( 1.5 ),0.4\r\ntaxes on international operations ( 1 ),-7.3 ( 7.3 ),-30.3 ( 30.3 ),-12.2 ( 12.2 )\r\nnondeductible expenses,2.7,3.4,1.4\r\nadjustments to prior year tax requirements,0.9,2.0,-1.2 ( 1.2 )\r\nadjustments to valuation allowances,3.8,-1.8 ( 1.8 ),-2.2 ( 2.2 )\r\nchange in uncertain tax positions,0.9,1.6,3.2\r\nexcess tax benefits related to shared based compensation ( 2 ),-3.6 ( 3.6 ),-8.0 ( 8.0 ),2014\r\nu.s . tax reform impact ( 3 ),7.1,51.2,2014\r\nloss on disposition,-10.2 ( 10.2 ),2014,2014\r\nother 2014 net,-1.2 ( 1.2 ),0.6,1.2\r\neffective tax rate,11.7% ( 11.7 % ),36.5% ( 36.5 % ),10.6% ( 10.6 % )",
+        "correct_answer": "\"2\"",
+        "score": 0
+    },
+    {
+        "index": 18,
+        "question": "\"In 2014 Global Payments, what is the total value of securities approved by security holders but net yer issued , ( in millions ) ?\"",
+        "model_answer": "**Query:** \"In 2014 Global Payments, what is the total value of securities approved by security holders but net yer issued , ( in millions ) ?\"\n**Company (Ticker):** GPN\n**Fiscal Year:** 2014\n**Retrieved Data:**\ncash and a commitment to fund the capital needs of the business until such time as its cumulative funding is equal to funding that we have provided from inception through the effective date of the transaction .the transaction created a new joint venture which does business as comercia global payments brazil .as a result of the transaction , we deconsolidated global payments brazil , and we apply the equity method of accounting to our retained interest in comercia global payments brazil .we recorded a gain on the transaction of $ 2.1 million which is included in interest and other income in the consolidated statement of income for the fiscal year ended may 31 , 2014 .the results of the brazil operation from inception until the restructuring into a joint venture on september 30 , 2013 were not material to our consolidated results of operations , and the assets and liabilities that we derecognized were not material to our consolidated balance sheet .american express portfolio on october",
+        "correct_answer": "\"365.4\"",
+        "score": 0
+    },
+    {
+        "index": 19,
+        "question": "\"what is the percent of our network route miles that is owned rather than operated on pursuant to trackage rights or leases in 2016 Union Pacific Corp\"",
+        "model_answer": "**Query:** \"what is the percent of our network route miles that is owned rather than operated on pursuant to trackage rights or leases in 2016 Union Pacific Corp\"\n**Company (Ticker):** UNP\n**Fiscal Year:** 2016\n**Retrieved Data:**\nfive-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2011 and that all dividends were reinvested .the information below is historical in nature and is not necessarily indicative of future performance .purchases of equity securities 2013 during 2016 , we repurchased 35686529 shares of our common stock at an average price of $ 88.36 .the following table presents common stock repurchases during each month for the fourth quarter of 2016 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares remaining under the plan or program [b] .",
+        "correct_answer": "\"81.2%\"",
+        "score": 0
+    },
+    {
+        "index": 20,
+        "question": "\"What is the American Tower Corp's current ratio in 12 years ago?\"",
+        "model_answer": "Could not find relevant data for AMT in fiscal year 2011. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": 1.7923,
+        "score": 0
+    },
+    {
+        "index": 21,
+        "question": "\"What is the DISH Network Corporation's current ratio in 13 years ago?\"",
+        "model_answer": "Could not find relevant data for DISH in fiscal year 2010. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": 1.7804,
+        "score": 0
+    },
+    {
+        "index": 22,
+        "question": "\"What is the American Tower Corp's current ratio in 2012?\"",
+        "model_answer": "**Query:** \"What is the American Tower Corp's current ratio in 2012?\"\n**Company (Ticker):** AMT\n**Fiscal Year:** 2012\n**Retrieved Data:**\n2010 represents income from continuing operations attributable to american tower corporation divided by the weighted average number of common shares outstanding during the period and any dilutive common share equivalents , including unvested restricted stock , shares issuable upon exercise of stock options and warrants as determined under the treasury stock method and upon conversion of the company 2019s convertible notes , as determined under the if-converted method .retirement plan 2014the company has a 401 ( k ) plan covering substantially all employees who meet certain age and employment requirements .the company 2019s matching contribution for the years ended december 31 , 2012 , 2011 and 2010 is 50% ( 50 % ) up to a maximum 6% ( 6 % ) of a participant 2019s contributions .for the years ended december 31 , 2012 , 2011 and 2010 , the company contributed approximately $ 4.4 million , $ 2.9 million and $ 1.9 million to the plan , respectively .2 .prepaid and other current assets",
+        "correct_answer": 1.7923,
+        "score": 0
+    },
+    {
+        "index": 23,
+        "question": "\"What is the DISH Network Corporation's current ratio in 2011?\"",
+        "model_answer": "**Query:** \"What is the DISH Network Corporation's current ratio in 2011?\"\n**Company (Ticker):** DISH\n**Fiscal Year:** 2011\n**Retrieved Data:**\ndish network corporation notes to consolidated financial statements - continued ciel ii .ciel ii , a canadian dbs satellite , was launched in december 2008 and commenced commercial operation during february 2009 .this satellite is accounted for as a capital lease and depreciated over the term of the satellite service agreement .we have leased 100% ( 100 % ) of the capacity on ciel ii for an initial 10 year term .as of december 31 , 2011 and 2010 , we had $ 500 million capitalized for the estimated fair value of satellites acquired under capital leases included in 201cproperty and equipment , net , 201d with related accumulated depreciation of $ 151 million and $ 109 million , respectively .in our consolidated statements of operations and comprehensive income ( loss ) , we recognized $ 43 million , $ 43 million and $ 40 million in depreciation expense on satellites acquired under capital lease agreements during the years ended december 31 , 2011 , 2010 and 2009 , respectively .future",
+        "correct_answer": 1.7804,
+        "score": 0
+    },
+    {
+        "index": 24,
+        "question": "\"What is the International Paper Company's Operating Profit Margin in 2006?\"",
+        "model_answer": "**Query:** \"What is the International Paper Company's Operating Profit Margin in 2006?\"\n**Company (Ticker):** IP\n**Fiscal Year:** 2006\n**Retrieved Data:**\nmillion realized during 2006 .while more remains to be done in 2007 , we have made substantial progress toward achiev- ing the objectives announced at the outset of the plan in july 2005 .results of operations industry segment operating profits are used by inter- national paper 2019s management to measure the earn- ings performance of its businesses .management believes that this measure allows a better under- standing of trends in costs , operating efficiencies , prices and volumes .industry segment operating profits are defined as earnings before taxes and minority interest , interest expense , corporate items and corporate special items .industry segment oper- ating profits are defined by the securities and exchange commission as a non-gaap financial measure , and are not gaap alternatives to net income or any other operating measure prescribed by accounting principles generally accepted in the united states .international paper operates in six segments : print- ing papers ,",
+        "correct_answer": 9.769119769,
+        "score": 0
+    },
+    {
+        "index": 25,
+        "question": "\"What is the International Paper Company's Operating Profit Margin in 2005?\"",
+        "model_answer": "**Query:** \"What is the International Paper Company's Operating Profit Margin in 2005?\"\n**Company (Ticker):** IP\n**Fiscal Year:** 2005\n**Retrieved Data:**\noperating model in our containerboard mills during 2005 resulted in increased operating efficiency and cost savings .specialty papers in 2005 included the kraft paper business for the full year and the industrial papers busi- ness for five months prior to its sale in may 2005 .net sales totaled $ 468 million in 2005 , $ 723 million in 2004 and $ 690 million in 2003 .operating profits in 2005 were down 23% ( 23 % ) compared with 2004 and 54% ( 54 % ) com- pared with 2003 , reflecting the lower contribution from industrial papers .u.s .converting operations net sales for 2005 were $ 2.6 billion compared with $ 2.3 billion in 2004 and $ 1.9 billion in 2003 .sales volumes were up 10% ( 10 % ) in 2005 compared with 2004 , mainly due to the acquisition of box usa in july 2004 .average sales prices in 2005 began the year above 2004 levels , but softened in the second half of the year .operating profits in 2005 de- creased 46% ( 46 % ) and 4% ( 4 % ) from 2004 and 2003 levels , re- spectively",
+        "correct_answer": 6.59693166,
+        "score": 0
+    },
+    {
+        "index": 26,
+        "question": "\"What is the International Paper Company's Operating Profit Margin in 2004?\"",
+        "model_answer": "Could not find relevant data for IP in fiscal year 2004. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": 7.119831815,
+        "score": 0
+    },
+    {
+        "index": 27,
+        "question": "\"What is the Air Products and Chemicals's Operating Profit Margin in 2016?\"",
+        "model_answer": "**Query:** \"What is the Air Products and Chemicals's Operating Profit Margin in 2016?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2017\n**Retrieved Data:**\n,2017,2016,2015\r\nsales,$ 82.6,$ 236.0,$ 315.4\r\noperating loss,-170.6 ( 170.6 ),-87.6 ( 87.6 ),-86.5 ( 86.5 )\r\nadjusted ebitda,-158.4 ( 158.4 ),-68.1 ( 68.1 ),-66.2 ( 66.2 )",
+        "correct_answer": 26.7735375,
+        "score": 0
+    },
+    {
+        "index": 28,
+        "question": "\"What is the Air Products and Chemicals's Operating Profit Margin in 2015?\"",
+        "model_answer": "**Query:** \"What is the Air Products and Chemicals's Operating Profit Margin in 2015?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2015\n**Retrieved Data:**\nbusiness separation costs on 16 september 2015 , the company announced that it intends to separate its materials technologies business via a spin-off .during the fourth quarter , we incurred legal and other advisory fees of $ 7.5 ( $ .03 per share ) .gain on previously held equity interest on 30 december 2014 , we acquired our partner 2019s equity ownership interest in a liquefied atmospheric industrial gases production joint venture in north america for $ 22.6 which increased our ownership from 50% ( 50 % ) to 100% ( 100 % ) .the transaction was accounted for as a business combination , and subsequent to the acquisition , the results are consolidated within our industrial gases 2013 americas segment .the assets acquired , primarily plant and equipment , were recorded at their fair value as of the acquisition date .the acquisition date fair value of the previously held equity interest was determined using a discounted cash flow analysis under the income approach .during the first",
+        "correct_answer": 21.88472888,
+        "score": 0
+    },
+    {
+        "index": 29,
+        "question": "\"What is the Air Products and Chemicals's Operating Profit Margin in 2014?\"",
+        "model_answer": "**Query:** \"What is the Air Products and Chemicals's Operating Profit Margin in 2014?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2014\n**Retrieved Data:**\nand performance materials , and $ 1.8 in equipment and energy .2013 plan during the fourth quarter of 2013 , we recorded an expense of $ 231.6 ( $ 157.9 after-tax , or $ .74 per share ) reflecting actions to better align our cost structure with current market conditions .the asset and contract actions primarily impacted the electronics business due to continued weakness in the photovoltaic ( pv ) and light-emitting diode ( led ) markets .the severance and other contractual benefits primarily impacted our merchant gases business and corporate functions in response to weaker than expected business conditions in europe and asia , reorganization of our operations and functional areas , and previously announced senior executive changes .the remaining planned actions associated with severance were completed in the first quarter of 2015 .the 2013 charges relate to the businesses at the segment level as follows : $ 61.0 in merchant gases , $ 28.6 in tonnage gases , $ 141.0 in electronics and",
+        "correct_answer": 18.69805075,
+        "score": 0
+    },
+    {
+        "index": 30,
+        "question": "\"What is the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2006?\"",
+        "model_answer": "**Query:** \"What is the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2006?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2017\n**Retrieved Data:**\n,2017,2016,2015\r\nsales,$ 82.6,$ 236.0,$ 315.4\r\noperating loss,-170.6 ( 170.6 ),-87.6 ( 87.6 ),-86.5 ( 86.5 )\r\nadjusted ebitda,-158.4 ( 158.4 ),-68.1 ( 68.1 ),-66.2 ( 66.2 )",
+        "correct_answer": "17.00441774",
+        "score": 0
+    },
+    {
+        "index": 31,
+        "question": "\"What is the average of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2005?\"",
+        "model_answer": "**Query:** \"What is the average of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2005?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2017\n**Retrieved Data:**\n,2017,2016,2015\r\nsales,$ 82.6,$ 236.0,$ 315.4\r\noperating loss,-170.6 ( 170.6 ),-87.6 ( 87.6 ),-86.5 ( 86.5 )\r\nadjusted ebitda,-158.4 ( 158.4 ),-68.1 ( 68.1 ),-66.2 ( 66.2 )",
+        "correct_answer": "16.68523458",
+        "score": 0
+    },
+    {
+        "index": 32,
+        "question": "\"What is the sum of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2004?\"",
+        "model_answer": "**Query:** \"What is the sum of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2004?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2017\n**Retrieved Data:**\n,2017,2016,2015\r\nsales,$ 82.6,$ 236.0,$ 315.4\r\noperating loss,-170.6 ( 170.6 ),-87.6 ( 87.6 ),-86.5 ( 86.5 )\r\nadjusted ebitda,-158.4 ( 158.4 ),-68.1 ( 68.1 ),-66.2 ( 66.2 )",
+        "correct_answer": "33.89336932",
+        "score": 0
+    },
+    {
+        "index": 33,
+        "question": "\"Which one's Operating Profit Margin is bigger between Air Products and Chemicals in 2014 and International Paper Company in 2006?\"",
+        "model_answer": "**Query:** \"Which one's Operating Profit Margin is bigger between Air Products and Chemicals in 2014 and International Paper Company in 2006?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2015\n**Retrieved Data:**\n,2015,2014,2013\r\ninterest incurred,$ 152.6,$ 158.1,$ 167.6\r\nless : capitalized interest,49.1,33.0,25.8\r\ninterest expense,$ 103.5,$ 125.1,$ 141.8",
+        "correct_answer": "Air Products and Chemicals",
+        "score": 0
+    },
+    {
+        "index": 34,
+        "question": "\"What is the difference of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2006?\"",
+        "model_answer": "**Query:** \"What is the difference of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2006?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2016\n**Retrieved Data:**\nmajor projects in 2016 and 2015 .additions to plant and equipment also included support capital of a routine , ongoing nature , including expenditures for distribution equipment and facility improvements .spending in 2016 and 2015 included plant and equipment constructed to provide oxygen for coal gasification in china , hydrogen to the global market , oxygen to the steel industry , nitrogen to the electronic semiconductor industry , and capacity expansion for the materials technologies segment .capital expenditures on a non-gaap basis in 2016 totaled $ 1083.0 compared to $ 1678.4 in 2015 .the decrease of $ 595.4 was primarily due to the prior year purchase of the 30.5% ( 30.5 % ) equity interest in our indura s.a .subsidiary from the largest minority shareholder for $ 277.9 .refer to note 21 , noncontrolling interests , to the consolidated financial statements for additional details .additionally , capital lease expenditures of $ 27.2 , decreased by $ 68.4 , reflecting lower project",
+        "correct_answer": "12.11560911",
+        "score": 0
+    },
+    {
+        "index": 35,
+        "question": "\"What is the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"",
+        "model_answer": "**Query:** \"What is the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2015\n**Retrieved Data:**\n,2015,2014,2013\r\npension expense,$ 135.6,$ 135.9,$ 169.7\r\nspecial terminations settlements and curtailments ( included above ),35.2,5.8,19.8\r\nweighted average discount rate,4.0% ( 4.0 % ),4.6% ( 4.6 % ),4.0% ( 4.0 % )\r\nweighted average expected rate of return on plan assets,7.4% ( 7.4 % ),7.7% ( 7.7 % ),7.7% ( 7.7 % )\r\nweighted average expected rate of compensation increase,3.5% ( 3.5 % ),3.9% ( 3.9 % ),3.8% ( 3.8 % )",
+        "correct_answer": "14.24083027",
+        "score": 0
+    },
+    {
+        "index": 36,
+        "question": "\"What is the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"",
+        "model_answer": "**Query:** \"What is the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"\n**Company (Ticker):** APD\n**Fiscal Year:** 2016\n**Retrieved Data:**\nmaterials technologies , and $ 48.9 in corporate and other .during the fourth quarter of 2014 , an expense of $ 12.7 ( $ 8.2 after-tax , or $ .04 per share ) was incurred relating to the elimination of approximately 50 positions .the 2014 charge related to the segments as follows : $ 2.9 in industrial gases 2013 americas , $ 3.1 in industrial gases 2013 emea , $ 1.5 in industrial gases 2013 asia , $ 1.5 in industrial gases 2013 global , $ 1.6 in materials technologies , and $ 2.1 in corporate and other. .",
+        "correct_answer": "29.00456069",
+        "score": 0
+    },
+    {
+        "index": 37,
+        "question": "\"Which one's current ratio is bigger between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"",
+        "model_answer": "Could not find relevant data for AMT in fiscal year 2013. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "American Tower Corp",
+        "score": 0
+    },
+    {
+        "index": 38,
+        "question": "\"What is the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"",
+        "model_answer": "Could not find relevant data for AMT in fiscal year 2013. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "1.786341177",
+        "score": 0
+    },
+    {
+        "index": 39,
+        "question": "\"What is the difference of current ratio between American Tower Corp in 2012 and DISH Network Corporation in a year before that?\"",
+        "model_answer": "**Query:** \"What is the difference of current ratio between American Tower Corp in 2012 and DISH Network Corporation in a year before that?\"\n**Company (Ticker):** AMT\n**Fiscal Year:** 2012\n**Retrieved Data:**\n2010 represents income from continuing operations attributable to american tower corporation divided by the weighted average number of common shares outstanding during the period and any dilutive common share equivalents , including unvested restricted stock , shares issuable upon exercise of stock options and warrants as determined under the treasury stock method and upon conversion of the company 2019s convertible notes , as determined under the if-converted method .retirement plan 2014the company has a 401 ( k ) plan covering substantially all employees who meet certain age and employment requirements .the company 2019s matching contribution for the years ended december 31 , 2012 , 2011 and 2010 is 50% ( 50 % ) up to a maximum 6% ( 6 % ) of a participant 2019s contributions .for the years ended december 31 , 2012 , 2011 and 2010 , the company contributed approximately $ 4.4 million , $ 2.9 million and $ 1.9 million to the plan , respectively .2 .prepaid and other current assets",
+        "correct_answer": "0.01185521735",
+        "score": 0
+    },
+    {
+        "index": 40,
+        "question": "\"What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"",
+        "model_answer": "**Query:** \"What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2014\n**Retrieved Data:**\n$ in millions,as of december 2014,as of december 2013\r\ncommon shareholders 2019 equity,$ 73597,$ 71267\r\ndeductions for goodwill and identifiable intangible assets net of deferred tax liabilities,-3196 ( 3196 ),-3468 ( 3468 )\r\ndeductions for investments in nonconsolidated financial institutions,-4928 ( 4928 ),-9091 ( 9091 )\r\nother adjustments,-1213 ( 1213 ),-489 ( 489 )\r\ncet1,$ 64260,$ 58219\r\nbasel iii advanced rwas,$ 577869,$ 594662\r\nbasel iii advanced cet1 ratio,11.1% ( 11.1 % ),9.8% ( 9.8 % )\r\nstandardized rwas,$ 627444,$ 635092\r\nstandardized cet1 ratio,10.2% ( 10.2 % ),9.2% ( 9.2 % )",
+        "correct_answer": "48722.45 million",
+        "score": 0
+    },
+    {
+        "index": 41,
+        "question": "\"What is the Goldman Sachs Group's Total Assets change from 2013 to 2017 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"",
+        "model_answer": "**Query:** \"What is the Goldman Sachs Group's Total Assets change from 2013 to 2017 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2013\n**Retrieved Data:**\n$ in millions,as of december 2013,as of december 2012\r\ntier 1 capital,$ 72471,$ 66977\r\ntier 2 capital,$ 13632,$ 13429\r\ntotal capital,$ 86103,$ 80406\r\nrisk-weighted assets,$ 433226,$ 399928\r\ntier 1 capital ratio,16.7% ( 16.7 % ),16.7% ( 16.7 % )\r\ntotal capital ratio,19.9% ( 19.9 % ),20.1% ( 20.1 % )\r\ntier 1 leverage ratio,8.1% ( 8.1 % ),7.3% ( 7.3 % )",
+        "correct_answer": "46296.6 million",
+        "score": 0
+    },
+    {
+        "index": 42,
+        "question": "\"What is the sum of Goldman Sachs Group's Total Assets from 2011 to 2014 divided by the average of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2005?",
+        "model_answer": "Could not find relevant data for GS in fiscal year 2011. Please refine your query or check the company name and fiscal year.",
+        "correct_answer": "217529.28 million",
+        "score": 0
+    },
+    {
+        "index": 43,
+        "question": "\"What is the sum of Goldman Sachs Group's Total Assets from 2011 to 2014 multiplied by the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"",
+        "model_answer": "**Query:** \"What is the sum of Goldman Sachs Group's Total Assets from 2011 to 2014 multiplied by the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2012\n**Retrieved Data:**\nperformance of the segments .goldman sachs 2012 annual report 195 .",
+        "correct_answer": "51687477.96 million",
+        "score": 0
+    },
+    {
+        "index": 44,
+        "question": "\"What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 divided the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2006?\"",
+        "model_answer": "**Query:** \"What is the Goldman Sachs Group's Total Assets change from 2014 to 2016 divided the difference of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2006?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2014\n**Retrieved Data:**\nconsolidated investments , partially offset by increased compensation and benefits expenses due to higher net revenues compared with 2012 .pre-tax earnings were $ 4.33 billion in 2013 , 34% ( 34 % ) higher than 2012 .goldman sachs 2014 annual report 45 .",
+        "correct_answer": "1604 million",
+        "score": 0
+    },
+    {
+        "index": 45,
+        "question": "\"What is the Goldman Sachs Group's Total Assets change from 2013 to 2017 dividied the sum of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2004?\"",
+        "model_answer": "**Query:** \"What is the Goldman Sachs Group's Total Assets change from 2013 to 2017 dividied the sum of Operating Profit Margin between Air Products and Chemicals in 2016 and International Paper Company in 2004?\"\n**Company (Ticker):** GS\n**Fiscal Year:** 2014\n**Retrieved Data:**\nconsolidated investments , partially offset by increased compensation and benefits expenses due to higher net revenues compared with 2012 .pre-tax earnings were $ 4.33 billion in 2013 , 34% ( 34 % ) higher than 2012 .goldman sachs 2014 annual report 45 .",
+        "correct_answer": "764.6 million",
+        "score": 0
+    },
+    {
+        "index": 46,
+        "question": "\"What is the difference of Union Pacific Corp's revenue from 2013 to 2016 divided the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"",
+        "model_answer": "**Query:** \"What is the difference of Union Pacific Corp's revenue from 2013 to 2016 divided the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"\n**Company (Ticker):** UNP\n**Fiscal Year:** 2014\n**Retrieved Data:**\nalthough our revenues are principally derived from customers domiciled in the u.s. , the ultimate points of origination or destination for some products transported by us are outside the u.s .each of our commodity groups includes revenue from shipments to and from mexico .included in the above table are revenues from our mexico business which amounted to $ 2.3 billion in 2014 , $ 2.1 billion in 2013 , and $ 1.9 billion in 2012 .basis of presentation 2013 the consolidated financial statements are presented in accordance with accounting principles generally accepted in the u.s .( gaap ) as codified in the financial accounting standards board ( fasb ) accounting standards codification ( asc ) .2 .significant accounting policies principles of consolidation 2013 the consolidated financial statements include the accounts of union pacific corporation and all of its subsidiaries .investments in affiliated companies ( 20% ( 20 % ) to 50% ( 50 % ) owned ) are accounted for using the equity",
+        "correct_answer": "-69.7 million",
+        "score": 0
+    },
+    {
+        "index": 47,
+        "question": "\"What is the average of Union Pacific Corp's revenue from 2013 to 2016 divided by the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"",
+        "model_answer": "**Query:** \"What is the average of Union Pacific Corp's revenue from 2013 to 2016 divided by the sum of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2004?\"\n**Company (Ticker):** UNP\n**Fiscal Year:** 2014\n**Retrieved Data:**\nfive-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2009 and that all dividends were reinvested .the information below is historical in nature and is not necessarily indicative of future performance .purchases of equity securities 2013 during 2014 , we repurchased 33035204 shares of our common stock at an average price of $ 100.24 .the following table presents common stock repurchases during each month for the fourth quarter of 2014 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares that may yet be purchased under the plan or program [b] .",
+        "correct_answer": "755.95 million",
+        "score": 0
+    },
+    {
+        "index": 48,
+        "question": "\"What is the difference of Union Pacific Corp's revenue from 2013 to 2016 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"",
+        "model_answer": "**Query:** \"What is the difference of Union Pacific Corp's revenue from 2013 to 2016 multiplied by the average of current ratio between American Tower Corp in 2012 and DISH Network Corporation in 2011?\"\n**Company (Ticker):** UNP\n**Fiscal Year:** 2013\n**Retrieved Data:**\nfive-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2008 and that all dividends were reinvested .the information below is historical in nature and is not necessarily indicative of future performance .purchases of equity securities 2013 during 2013 , we repurchased 14996957 shares of our common stock at an average price of $ 152.14 .the following table presents common stock repurchases during each month for the fourth quarter of 2013 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares that may yet be purchased under the plan or program [b] .",
+        "correct_answer": "-3611.98 million",
+        "score": 0
+    },
+    {
+        "index": 49,
+        "question": "\"What is the average of Union Pacific Corp's revenue from 2013 to 2016 divided by the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"",
+        "model_answer": "**Query:** \"What is the average of Union Pacific Corp's revenue from 2013 to 2016 divided by the average of Operating Profit Margin between Air Products and Chemicals in 2015 and International Paper Company in 2005?\"\n**Company (Ticker):** UNP\n**Fiscal Year:** 2014\n**Retrieved Data:**\nfive-year performance comparison 2013 the following graph provides an indicator of cumulative total shareholder returns for the corporation as compared to the peer group index ( described above ) , the dj trans , and the s&p 500 .the graph assumes that $ 100 was invested in the common stock of union pacific corporation and each index on december 31 , 2009 and that all dividends were reinvested .the information below is historical in nature and is not necessarily indicative of future performance .purchases of equity securities 2013 during 2014 , we repurchased 33035204 shares of our common stock at an average price of $ 100.24 .the following table presents common stock repurchases during each month for the fourth quarter of 2014 : period total number of shares purchased [a] average price paid per share total number of shares purchased as part of a publicly announced plan or program [b] maximum number of shares that may yet be purchased under the plan or program [b] .",
+        "correct_answer": "1539.67 million",
+        "score": 0
+    }
+]
